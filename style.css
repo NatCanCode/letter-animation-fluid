@@ -1,0 +1,20 @@
+body{
+    background: url(images/sand-grainer-countdown.jpg) no-repeat center / cover;
+    background-color: #CDA382;
+}
+.ml16{
+    line-height: 100vh;
+    /* text-align: center; */
+    color: #1A1B19;
+    padding-left: 4%;
+    font-family: 'Cormorant Upright', serif;
+    font-weight: 800;
+    font-size: 3em;
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+    overflow: hidden;
+}
+.ml16 .letter{
+    display: inline-block;
+    line-height: 1em;
+}
